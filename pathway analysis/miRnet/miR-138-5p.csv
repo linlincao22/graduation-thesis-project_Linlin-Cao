@@ -1,0 +1,1160 @@
+ID,Accession,Target,TargetID,Experiment,Literature,Tissue
+hsa-mir-138-5p,MIMAT0000430,AKT1,207,Immunohistochemistry//Luciferase reporter assay//Western blot,28122142,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RHOC,389,Luciferase reporter assay//PAR-CLIP//qRT-PCR//Reporter assay//Western blot,20232393|21770894|23007504|21572407|26701625|27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BAG1,573,Luciferase reporter assay//qRT-PCR//Western blot,25962180,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCND1,595,Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,22739938|28275859,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CASP3,836,Luciferase reporter assay,22921398,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCND3,896,Immunoblot//Luciferase reporter assay//qRT-PCR//Western blot,22362728|23208504|25439221|26823826,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDH1,999,Western blot,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDH2,1000,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CEBPA,1050,qRT-PCR,20486779,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CSRP2,1466,PAR-CLIP,23592263|21572407,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF4EBP1,1978,Luciferase reporter assay//qRT-PCR,26891291|28075468,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EZH2,2146,//ELISA//Immunoblot//Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Reporter assay//Western blot,23343715|21770894|23707559|25339353|27019355|27266699,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FABP4,2167,qRT-PCR,20486779,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOXC1,2296,Luciferase reporter assay//qRT-PCR//Western blot,27799147,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNAI2,2771,Microarray//qRT-PCR//Western blot,21079996,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GRID1,2894,HITS-CLIP,23824327|27418678,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NR3C1,2908,HITS-CLIP,23313552,Unspecified
+hsa-mir-138-5p,MIMAT0000430,H2AFX,3014,Luciferase reporter assay//PAR-CLIP//Western blot,21693595|23446348|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HIF1A,3091,Luciferase reporter assay,21875287|23389731,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HMGA1,3159,PAR-CLIP,22012620,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IGF1R,3480,Luciferase reporter assay,20819078,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL10RA,3587,PAR-CLIP,23592263,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LCN2,3934,Luciferase reporter assay//qRT-PCR//Western blot,23300839,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LNPEP,4012,PAR-CLIP,23446348|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LPL,4023,Next Generation Sequencing (NGS)//qRT-PCR,20486779|27762728,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MXD1,4084,Luciferase reporter assay//Microarray,22921398,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAP3K11,4296,Luciferase reporter assay,24211202,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MMP3,4314,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MYBL2,4605,PAR-CLIP,27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NEUROD1,4760,HITS-CLIP,19536157,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NFKB1,4790,Western blot,26823826,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NVL,4931,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SERPINE1,5054,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PFN2,5217,PAR-CLIP,23446348|21572407|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHKG2,5261,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLAGL2,5326,HITS-CLIP,23313552,Unspecified
+hsa-mir-138-5p,MIMAT0000430,POLR2E,5434,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPARG,5468,qRT-PCR,20486779,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAP2K7,5609,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RELN,5649,Luciferase reporter assay,23438760,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTK2,5747,Luciferase reporter assay//Western blot,21444814,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RARA,5914,CLASH//Luciferase reporter assay//Western blot,23622248|25680531,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RGS12,6002,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPA1,6117,PAR-CLIP,27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,S100A1,6271,Immunoblot//Luciferase reporter assay,24244340,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SNAI2,6591,qRT-PCR//Western blot,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SOX4,6659,Luciferase reporter assay,23389731,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SOX9,6662,Mass spectrometry//qRT-PCR//Western blot,27347323,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TERT,7015,Luciferase reporter assay//qRT-PCR//Reporter assay//Western blot,18201269|25845814,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UBE2V1,7335,PAR-CLIP,20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VIM,7431,Luciferase reporter assay//qRT-PCR//Reporter assay//Western blot,21770894|22766839|26796277,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DEK,7913,PAR-CLIP,23446348|21572407|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOSL1,8061,Luciferase reporter assay//Western blot,21969367,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KDM5C,8242,Luciferase reporter assay//qRT-PCR//Western blot,26621457,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPM1D,8493,HITS-CLIP,23824327,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EED,8726,qRT-PCR//Western blot,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HIST1H2BJ,8970,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ROCK2,9475,Luciferase reporter assay//qRT-PCR//Reporter assay//Western blot,20232393,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BAG4,9530,PAR-CLIP,21572407,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZEB2,9839,qRT-PCR//Reporter assay,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLEKHM1,9842,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FGF19,9965,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DNAJB6,10049,PAR-CLIP,23446348|21572407|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FEM1B,10116,PAR-CLIP,23446348,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ACTR1A,10121,HITS-CLIP,27418678,Unspecified
+hsa-mir-138-5p,MIMAT0000430,YAP1,10413,Luciferase reporter assay//qRT-PCR//Western blot,26239136,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IGF2BP1,10642,PAR-CLIP,23446348|21572407|20371350|26701625|27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CELF1,10658,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZMYND11,10771,PAR-CLIP,20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BLCAP,10904,Luciferase reporter assay//Microarray,22921398,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FERMT2,10979,Luciferase reporter assay//PAR-CLIP//qRT-PCR//Western blot,23446348|26474967,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HNRNPUL1,11100,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VASH1,22846,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R13B,23368,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SIRT1,23411,In situ hybridization//Luciferase reporter assay//qRT-PCR//Western blot,22228303|28052003|28236278|27207584,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRAM1,23471,PAR-CLIP,23592263,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CAPN7,23473,HITS-CLIP,23824327,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SUZ12,23512,qRT-PCR//Western blot,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EID1,23741,Luciferase reporter assay//qRT-PCR//Quantitative proteomic approach//Western blot,20486779,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CBY1,25776,PAR-CLIP,21572407|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MTHFD1L,25902,HITS-CLIP,19536157,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ADGRA2,25960,Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,24582749,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLEK2,26499,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AGO1,26523,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TOR2A,27433,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CD274,29126,Luciferase reporter assay//Western blot,27248318,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SENP1,29843,Luciferase reporter assay//qRT-PCR//Western blot,24691972,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARHGEF3,50650,Luciferase reporter assay//qRT-PCR//Western blot,20232393,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BCL11A,53335,Luciferase reporter assay//Next Generation Sequencing (NGS)//qRT-PCR//RNA-binding protein immunoprecipitation//Western blot,28303002,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MYO3A,53904,PAR-CLIP,22012620,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM35A,54537,PAR-CLIP,20371350|26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEMA4C,54910,PAR-CLIP,24398324|23446348|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NPLOC4,55666,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KCNK12,56660,HITS-CLIP,21572407,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARHGAP31,57514,HITS-CLIP,28735896,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCAR2,57805,PAR-CLIP,26701625|27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TP53INP2,58476,PAR-CLIP,23446348|27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MEAF6,64769,HITS-CLIP,23313552,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RMND5A,64795,Immunofluorescence//Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,24057215,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF426,79088,HITS-CLIP,23313552,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C12orf49,79794,PAR-CLIP,23446348|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF607,84775,PAR-CLIP,23592263,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HIST1H2BK,85236,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC45A3,85414,Luciferase reporter assay//Reporter assay//Western blot,18193184,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LIN52,91750,PAR-CLIP,21572407,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MEX3A,92312,PAR-CLIP,23592263,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DMKN,93099,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CYTOR,112597,Immunofluorescence//Luciferase reporter assay//qRT-PCR//Western blot,28077595,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NACC1,112939,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TWIST2,117581,Luciferase reporter assay,24171926,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CST9,128822,PAR-CLIP,23592263,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARHGAP42,143872,PAR-CLIP,23446348|21572407|26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM109A,144717,HITS-CLIP,27418678,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPM1L,151742,HITS-CLIP,23824327,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLEKHG4B,153478,PAR-CLIP,22012620,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TSTD2,158427,PAR-CLIP,23592263,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FUT11,170384,HITS-CLIP,23824327,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C7orf33,202865,PAR-CLIP,22012620|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,YPEL4,219539,PAR-CLIP,27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARL5B,221079,PAR-CLIP,23446348|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMEM189,387521,PAR-CLIP,20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMEM189-UBE2V1,387522,PAR-CLIP,20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C16orf87,388272,PAR-CLIP,22100165,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IGLON5,402665,HITS-CLIP,24906430|23824327|27418678,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CASTOR2,729438,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RHOC,389,Luciferase reporter assay//PAR-CLIP//qRT-PCR//Reporter assay//Western blot,20232393|21770894|23007504|21572407|26701625|27292025,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BAG1,573,Luciferase reporter assay//qRT-PCR//Western blot,25962180,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCND1,595,Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,22739938|28275859,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CASP3,836,Luciferase reporter assay,22921398,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCND3,896,Immunoblot//Luciferase reporter assay//qRT-PCR//Western blot,22362728|23208504|25439221|26823826,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDH2,1000,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CSRP2,1466,PAR-CLIP,23592263|21572407,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF4EBP1,1978,Luciferase reporter assay//qRT-PCR,26891291|28075468,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EZH2,2146,//ELISA//Immunoblot//Immunohistochemistry//Luciferase reporter assay//Microarray//qRT-PCR//Reporter assay//Western blot,23343715|21770894|23707559|25339353|27019355|27266699,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNAI2,2771,Microarray//qRT-PCR//Western blot,21079996,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HIF1A,3091,Luciferase reporter assay,21875287|23389731,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HMGA1,3159,PAR-CLIP,22012620,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MXD1,4084,Luciferase reporter assay//Microarray,22921398,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MMP3,4314,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SERPINE1,5054,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PFN2,5217,PAR-CLIP,23446348|21572407|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHKG2,5261,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLAGL2,5326,HITS-CLIP,23313552,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAP2K7,5609,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RARA,5914,CLASH//Luciferase reporter assay//Western blot,23622248|25680531,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SNAI2,6591,qRT-PCR//Western blot,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SOX4,6659,Luciferase reporter assay,23389731,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SOX9,6662,Mass spectrometry//qRT-PCR//Western blot,27347323,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TERT,7015,Luciferase reporter assay//qRT-PCR//Reporter assay//Western blot,18201269|25845814,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VIM,7431,Luciferase reporter assay//qRT-PCR//Reporter assay//Western blot,21770894|22766839|26796277,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DEK,7913,PAR-CLIP,23446348|21572407|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOSL1,8061,Luciferase reporter assay//Western blot,21969367,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EED,8726,qRT-PCR//Western blot,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ROCK2,9475,Luciferase reporter assay//qRT-PCR//Reporter assay//Western blot,20232393,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZEB2,9839,qRT-PCR//Reporter assay,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CELF1,10658,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BLCAP,10904,Luciferase reporter assay//Microarray,22921398,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FERMT2,10979,Luciferase reporter assay//PAR-CLIP//qRT-PCR//Western blot,23446348|26474967,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HNRNPUL1,11100,PAR-CLIP,26701625,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SIRT1,23411,In situ hybridization//Luciferase reporter assay//qRT-PCR//Western blot,22228303|28052003|28236278|27207584,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRAM1,23471,PAR-CLIP,23592263,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SUZ12,23512,qRT-PCR//Western blot,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EID1,23741,Luciferase reporter assay//qRT-PCR//Quantitative proteomic approach//Western blot,20486779,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLEK2,26499,qRT-PCR,21770894,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AGO1,26523,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEMA4C,54910,PAR-CLIP,24398324|23446348|20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RMND5A,64795,Immunofluorescence//Immunoprecipitaion//Luciferase reporter assay//Microarray//qRT-PCR//Western blot,24057215,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC45A3,85414,Luciferase reporter assay//Reporter assay//Western blot,18193184,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LIN52,91750,PAR-CLIP,21572407,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DMKN,93099,CLASH,23622248,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPM1L,151742,HITS-CLIP,23824327,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMEM189-UBE2V1,387522,PAR-CLIP,20371350,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GCLC,2729,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KRIT1,889,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KRIT1,889,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LASP1,3927,"Microarrays, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,M6PR,4074,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC7A2,6542,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DVL2,1856,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UPF1,5976,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CREBBP,1387,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LAMP2,3920,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFRD1,3475,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PAFAH1B1,5048,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GAS7,8522,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ST3GAL1,6482,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BAZ1B,9031,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SPRTN,83932,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NCAPD2,9918,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NISCH,11188,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MRC2,9902,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLAUR,5329,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ANLN,54443,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NR1H4,9971,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,XYLT2,64132,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ATP1A2,477,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHLDB1,23187,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CYP24A1,1591,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZFP64,55734,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLEKHB1,58473,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GCLM,2730,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CD44,960,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,POU2F2,5452,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IKZF2,22807,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FUT8,2530,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VCL,7414,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DEPDC1B,55789,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VCAN,1462,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TNC,3371,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZIC2,7546,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CTNNA1,1495,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HSPA5,3309,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DSG2,1829,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WDR37,22884,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LMO3,55885,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DKK3,27122,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MPHOSPH9,10198,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,THRAP3,9967,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OPN3,23596,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF2AK2,5610,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KMT2C,58508,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ALDH18A1,5832,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WNK1,65125,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPL18,6141,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RNF4,6047,Chimeric fragments,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ST3GAL6,10402,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CTSA,5476,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC12A2,6558,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SMARCD1,6602,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ASPM,259266,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GOLGA5,9950,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FGFR2,2263,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ISOC1,51015,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PFKP,5214,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SP100,6672,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFI35,3430,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRR11,55771,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LAPTM4A,9741,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAST4,375449,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAOB,4129,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NEDD4,4734,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAPK6,5597,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ASNS,440,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PABPC1,26986,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEL1L,6400,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIP13,9319,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HMMR,3161,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STK10,6793,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PANX2,56666,"Microarrays, qPCR, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KDM5A,5927,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTGS2,5743,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CLNS1A,1207,"Microarrays, qPCR",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP2R2C,5522,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NTN4,59277,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NUAK1,9891,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEMA3A,10371,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GTSE1,51512,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FSCN1,6624,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MKRN2,23609,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MCM6,4175,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BAZ2A,11176,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MLH1,4292,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UNG,7374,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAP1GAP,5909,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RARB,5915,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TOP2B,7155,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TM9SF3,56889,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,USP33,23032,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EXOSC5,56915,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,JADE1,79960,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAP2,4133,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LAMP3,27074,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NEBL,10529,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CEACAM1,634,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DDX1,1653,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RIF1,55183,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CLDND1,56650,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NDC80,10403,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CXCL2,2920,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OSTM1,28962,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ME2,4200,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C5orf22,55322,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM135A,57579,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF264,9422,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,APLP2,334,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NCOA1,8648,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AKR1B1,231,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EPS15,2060,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CHERP,10523,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SNX10,29887,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HSD17B2,3294,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HUWE1,10075,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R15A,23645,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FTL,2512,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UIMC1,51720,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GMCL1,64395,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNAS,2778,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AURKA,6790,"Microarrays, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CNOT3,4849,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KHSRP,8570,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TPX2,22974,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ANKRD10,55608,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NSFL1C,55968,"Microarrays, HITS-CLIP",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OAS1,4938,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PXN,5829,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FUS,2521,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GPATCH2L,55668,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ICAM1,3383,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KIF4A,24137,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TNRC6A,27327,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TNRC6A,27327,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDV3,55573,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SUPT16H,11198,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEMA6A,57556,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WDR76,79968,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDC45,8318,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CBX5,23468,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EPB41L4B,54566,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMEM38B,55151,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SH2D3C,10044,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WAC,51322,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BRPF3,27154,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HSP90AB1,3326,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDC5L,988,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDC7,8317,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PALMD,54873,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CIRBP,1153,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CRKL,1399,Chimeric fragments,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SRRD,402055,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PACSIN2,11252,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,APOL1,8542,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOXRED2,80020,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDKN3,1033,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SNW1,22938,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ACIN1,22985,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MMP9,4318,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRPC4AP,26133,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SAMHD1,25939,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,JAG1,182,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM83D,81610,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RIOK3,8780,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,POLA1,5422,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDK16,5127,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CENPI,2491,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KLF5,688,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OLFM4,10562,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LONP2,83752,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,N4BP1,9683,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ACD,65057,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC7A6OS,84138,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC7A6,9057,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FA2H,79152,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NME4,4833,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC7A5,8140,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EEF2K,29904,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EEF2K,29904,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SALL1,6299,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAZ,4150,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCP110,9738,Chimeric fragments,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CTSH,1512,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TJP1,7082,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TJP1,7082,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SPG11,80208,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MYEF2,50804,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IMPAD1,54928,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GDAP1,54332,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NDRG1,10397,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EEF1D,1936,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EEF1D,1936,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MCM4,4173,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BNIP3L,665,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLEKHJ1,55111,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SF3A2,8175,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP6R1,22870,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCNE1,898,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TIMM50,92609,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AKT2,208,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TGFB1,7040,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPS19,6223,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TYK2,7297,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAB3D,9545,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TNPO2,30000,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ERF,2077,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDK6,1021,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HOXA1,3198,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GLCCI1,113263,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM14,9830,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DDX58,23586,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UBE2R2,54926,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LZTS2,84445,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPL28,6158,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TSPAN14,81619,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CRYBA1,1411,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NUFIP2,57532,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CASC3,22794,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HOXB6,3216,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRRC59,55379,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRKAR1A,5573,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WSB1,26118,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHF12,57649,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NEIL3,55247,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NCAPG,64151,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UGDH,7358,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF4G2,1982,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC1A2,6506,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MADD,8567,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CLEC2B,9976,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CAPRIN2,65981,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MLEC,9761,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOXM1,2305,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAD51AP1,10635,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SH2B3,10019,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DUSP16,80824,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DUSP16,80824,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OAS3,4940,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OAS2,4939,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RERGL,79785,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RFC5,5985,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CAND1,55832,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MDM1,56890,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CHD4,1108,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SRSF9,8683,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,COL12A1,1303,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DSE,29940,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NEDD9,4739,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MCM3,4172,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTP4A1,7803,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HECA,51696,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHACTR2,9749,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,QKI,9444,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VEGFA,7422,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KIF20A,10112,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HBEGF,1839,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HAVCR1,26762,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCNG1,900,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LMNB1,4001,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WWC1,23286,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CSNK1A1,1452,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STC2,8614,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CPEB4,80315,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AMOTL2,51421,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HES1,3280,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUSC2,11334,"Microarrays, qPCR",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IQCG,84223,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C3orf52,79669,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C3orf52,79669,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PODXL2,50512,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KLHL18,23276,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF4G1,1981,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ADAM23,8745,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MOB1A,55233,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LMAN2L,81562,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL1A,3552,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCL20,6364,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NCL,4691,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NRBP1,29959,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFIH1,64135,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SPTBN1,6711,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STAT1,6772,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SF3B1,23451,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FHL2,2274,"Microarrays, HITS-CLIP",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HDLBP,3069,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BIRC6,57448,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GORASP2,26003,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KYNU,8942,"PAR-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,COX7A2L,9167,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RND3,390,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AAK1,22848,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EPAS1,2034,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARID3A,1820,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SUMO1,7341,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ALMS1,7840,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ERRFI1,54206,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SFPQ,6421,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SRM,6723,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SMG7,9887,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GADD45A,1647,"Microarrays, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MTR,4548,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZP4,57829,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RIMS3,9783,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,APH1A,51107,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ERI3,79033,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRRC2C,23215,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,F3,2152,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARID1A,8289,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CENPF,1063,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RCN2,5955,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ELL2,22936,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PIGZ,80235,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTBP3,9991,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAD23B,5887,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CTNNAL1,8727,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHF19,26147,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ABCD4,5826,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,YPEL5,51646,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AFTPH,54812,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFIT3,3437,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFIT2,3433,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R3C,5507,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HELLS,3070,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PCDHB14,56122,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ACAT2,39,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ETF1,2107,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMPO,7112,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM117A,81558,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NCAPH,23397,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZSCAN18,65982,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DESI2,51029,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,COPA,1314,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZMIZ2,83637,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,INHBA,3624,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLAU,5328,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NR4A1,3164,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRP1,4035,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STIL,6491,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AGO2,27161,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MOGAT1,116255,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLCG1,5335,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNFX1,57169,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CSE1L,1434,"Western Blot, Luciferase Reporter Assay",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EREG,2069,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AHNAK,79026,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GZF1,64412,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MCM8,84515,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SCAF1,58506,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFI6,2537,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLEKHG3,26030,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,COX7C,1350,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TAS2R4,50832,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MACF1,23499,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,APOL2,23780,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOXP2,93986,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KLHDC10,23008,Chimeric fragments,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MYO1B,4430,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMOD2,29767,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DUT,1854,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PALLD,23022,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,E2F8,79733,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RTN4IP1,84816,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRRC2B,84726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM28,10155,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CLIP1,6249,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C12orf65,91574,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ULBP2,80328,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AKAP12,9590,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARHGEF9,23229,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPT1,5538,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSME3,10197,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ACAP3,116983,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NINJ1,4814,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAP1B,4131,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM22,10346,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EFR3A,23167,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMEM128,85013,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GRSF1,2926,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ITGB4,3691,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,XAF1,54739,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TERF2,7014,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PCNA,5111,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VSTM2L,128434,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OSER1,51526,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ALOX5AP,241,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WASF3,10810,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MPRIP,23164,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PIK3C2B,5287,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EPSTI1,94240,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM104A,84923,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MED10,84246,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C12orf29,91298,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RRAS2,22800,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DPF2,5977,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDK7,1022,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDK7,1022,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BHLHE40,8553,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MEIS2,4212,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EMC7,56851,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NOTCH2,4853,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NGF,4803,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RSAD2,91543,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FST,10468,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC43A3,29015,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARHGAP32,9743,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ETS1,2113,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC37A2,219855,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMED7,51014,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,APC,324,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NREP,9315,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OASL,8638,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SYNCRIP,10492,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AGAP2,116986,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TROAP,10024,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NHSL1,57224,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STX6,10228,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RNASEL,6041,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CEP350,9857,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SP110,3431,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRCH1,23143,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHF11,51131,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAC1,5879,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KDELR2,11014,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL6,3569,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MYO1G,64005,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZFHX2,85446,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GALNT5,11227,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL36G,56300,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL1RN,3557,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BIN1,274,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,YME1L1,10730,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRRC8A,56262,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TOR1B,27348,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STX17,55014,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FPGS,2356,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LMX1B,4010,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ENPP2,5168,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MYC,4609,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ALDH1B1,219,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HINT2,84681,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOXP4,116113,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IER3,8870,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IER3,8870,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IER3,8870,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IER3,8870,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IER3,8870,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IER3,8870,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FGFBP1,9982,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NARS2,79731,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DDX60,55601,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,THBS1,7057,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NUSAP1,51203,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GTF2B,2959,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFI44L,10964,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFI44,10561,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CYP1B1,1545,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CENPO,79172,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STAMBPL1,57559,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DNA2,1763,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PARP9,83666,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MNS1,55329,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEMA7A,8482,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEMA7A,8482,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HERC6,55008,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HERC5,51191,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RASGEF1B,153020,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEC31A,22872,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FGF2,2247,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABARAPL1,23710,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHLDA1,22822,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DUSP6,1848,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GAS2L3,283431,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TDG,6996,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ANKRD52,283373,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FRMD6,122786,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TLE3,7090,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ANP32A,8125,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TPM1,7168,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARRDC4,91947,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FANCI,55215,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TICRR,90381,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDH11,1009,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TOB1,10140,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MINK1,50488,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOXK2,3607,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM65,201292,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WDR45B,56270,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PMAIP1,5366,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FKBP10,60681,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BRD4,23476,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NFIC,4782,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFITM3,10410,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PGD,5226,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRKACB,5567,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LMO4,8543,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DCAF6,55827,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MRPL24,79590,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,POGZ,23126,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DUSP10,11221,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FBXO28,23219,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LBR,3930,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC20A1,6574,"Microarrays, qPCR",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GOLGA4,2803,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPL32,6161,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARL6IP5,10550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHLDB2,90102,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KLHL8,57563,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCNA2,890,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SKP2,6502,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PIK3R1,5295,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IQGAP2,10788,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FEM1C,56929,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,COMMD10,51397,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TENM2,57451,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PNRC1,10957,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DYNLT1,6993,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GIGYF1,64599,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC16A2,6567,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NONO,4841,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NFIB,4781,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NTRK2,4915,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STOM,2040,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MED22,6837,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MED22,6837,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTGES,9536,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF4EBP2,1979,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MKI67,4288,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SESN3,143686,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LAMTOR1,55004,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SIDT2,51092,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SOGA1,140710,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CABLES2,81928,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FREM2,341640,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CRIM1,51232,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CRIM1,51232,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UBC,7316,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DCP1B,196513,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DCP1B,196513,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AKAP6,9472,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ADAMTS12,81792,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ADAMTS12,81792,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UPF2,26019,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FRMD4A,55691,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EPS8,2059,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AKR1C2,1646,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PIGF,5281,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DST,667,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SETBP1,26040,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HAUS1,115106,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZFP36L2,678,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MBNL1,4154,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CENPH,64946,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ING1,3621,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GTF2E1,2960,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,JAZF1,221895,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CEBPG,1054,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DGKE,8526,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CABYR,26256,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GPR15,2838,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRRK1,79705,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MIA3,375056,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CCSAP,126731,Chimeric fragments,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ADAMTS1,9510,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ADAMTS5,11096,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AZIN1,51582,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AGPAT5,55326,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AGPAT5,55326,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NIFK,84365,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NUP205,23165,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMEM237,65062,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ELMO1,9844,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SH3RF2,153769,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HK1,3098,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAB11FIP1,80223,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ATAD2,29028,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRR14,78994,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FBRS,64319,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FRRS1,391059,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BUB1B,701,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZFYVE9,9372,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NRG1,3084,"Microarrays, HITS-CLIP",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PAXIP1,22976,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RNF111,54778,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KCNJ6,3763,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MX1,4599,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AUTS2,26053,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDA,978,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LAD1,3898,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTMS,5763,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BTG2,7832,"Microarrays, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZYX,7791,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZYX,7791,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ADAR,103,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL6R,3570,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CHRNB2,1141,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FDPS,2224,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PAQR6,79957,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PMF1,11243,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NBEAL2,23218,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPL8,6132,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAML1,9794,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAML1,9794,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PGAP3,93210,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF385A,25946,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LARP4,113251,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAVER1,125950,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TBC1D24,57465,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,USP24,23358,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CAMK2N1,55450,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DNAJB4,11080,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF281,23528,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL24,11009,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CAPN2,824,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PBXIP1,57326,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CLDN1,9076,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HIPK1,204851,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRRC58,116064,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFI16,3428,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDS1,1040,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SYNPR,132204,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TIPARP,25976,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLMAP,7871,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KIF15,56992,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KIF15,56992,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDCP1,64866,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DTX3L,151636,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPN1,6184,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RFC4,5984,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SFMBT1,51460,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,S100P,6286,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DNAJB14,79982,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PGRMC2,10424,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C4orf3,401152,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAD2L1,4085,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OTUD4,54726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ITGA2,3673,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STK17A,9263,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTTG1,9232,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDCA7L,55536,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DLC1,10395,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DLC1,10395,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CTHRC1,115908,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GEM,2669,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HGSNAT,138050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRR1,122769,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DDX21,9188,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RNASE7,84659,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NSMF,26012,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PACSIN3,29763,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFI27,3429,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFI27,3429,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NDUFB8,4714,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TPP1,1200,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C11orf74,119710,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUB,7275,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WEE1,7465,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MCM7,4176,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CASC4,113201,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLFN5,162394,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM111A,63901,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NAV2,89797,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PATL1,219988,"Microarrays, HITS-CLIP",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SCG5,6447,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SCG5,6447,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SCG5,6447,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SMAD3,4088,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAP1A,4130,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHB,5245,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GPRC5B,51704,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDK12,51755,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RBFOX3,146713,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TBC1D16,125058,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RRM1,6240,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TPM4,7171,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDT1,81620,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RHEBL1,121268,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LENG8,114823,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LENG8,114823,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LENG8,114823,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LENG8,114823,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EEF2,1938,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HID1,283987,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TK1,7083,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SRRM2,23524,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC3A2,6520,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SETD5,55209,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,THAP11,57215,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ATXN2L,11273,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SERINC2,347735,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC20A2,6575,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TET2,54790,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MAT2A,4144,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IRS1,3667,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HSPBAP1,79663,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CHST14,113189,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PARM1,25849,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ATF5,22809,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EFNA1,1942,"Microarrays, qPCR, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CXCL11,6373,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SIN3A,25942,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CXCL8,3576,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HINT1,3094,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BNC1,646,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CTNND2,1501,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF768,79724,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMEM154,201799,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HNRNPA3,220988,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UBB,7314,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRDM10,56980,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TMED10,10972,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDCA4,55038,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DNAJC24,120526,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C11orf24,53838,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,INSR,3643,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ESCO2,157570,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DSEL,92126,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DSEL,92126,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CLSTN1,22883,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BCL2,596,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RRM2,6241,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF217,7764,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SYNPO,11346,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TP53RK,112858,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RAD9A,5883,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLFN11,91607,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM222B,55731,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PARP14,54625,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF483,158399,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIB1,10221,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SAA1,6288,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SAA1,6288,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PEAK1,79834,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CSPG4,1464,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PHC3,80012,"PAR-CLIP, HITS-CLIP",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CBX2,84733,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GOLIM4,27333,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KLHL15,80311,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CYB561D1,284613,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZHX3,23051,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EXO1,9156,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL20RB,53833,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MARCKSL1,65108,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CADM2,253559,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CADM2,253559,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LSM1,27257,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PTPN2,5771,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB6,84617,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LRRTM4,80059,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SYNE3,161176,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DIRAS1,148252,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TYMS,7298,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CHD9,80205,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SAMD9L,219285,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TGIF1,7050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZBED2,79413,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,JUN,3725,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NAALADL2,254827,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NAALADL2,254827,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PDE4DIP,9659,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,WDR6,11180,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZFAND2A,90637,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CSRNP3,80034,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZHX2,22882,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RMI1,80010,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF3K,27335,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF3K,27335,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SNX18,112574,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FARSA,2193,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CLK3,1198,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARID3B,10620,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARL14,80117,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CITED4,163732,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MED14,9282,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MCFD2,90411,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SSTR2,6752,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SHISA2,387914,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM83H,286077,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM83H,286077,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BBS12,166379,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DHTKD1,55526,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,POLR2A,5430,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,POLR2A,5430,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DDX60L,91351,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OGFOD3,79701,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CYB5D1,124637,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRAPPC6B,122553,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TTC3,7267,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TSKU,25987,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GRIN2A,2903,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MX2,4600,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CBX6,23466,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TBL3,10607,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OLIG1,116448,"Microarrays, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PCDH9,5101,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KCND2,3751,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KNTC1,9735,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SOCS3,9021,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PDE4B,5142,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDCA2,157313,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EIF4ENIF1,56478,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,UBE2G2,7327,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM227A,646851,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BRI3BP,140707,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MANEAL,149175,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SV2B,9899,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NR2F2,7026,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PCGF3,10336,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PBX1,5087,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZFP36L1,677,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IFIT1,3434,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DMWD,1762,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LAMP1,3916,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IRS2,8660,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,POLR1D,51082,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,THBS2,7058,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNG2,54331,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HEXIM1,10614,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPARA,5465,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LUZP2,338645,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KCNJ11,3767,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,COL4A1,1282,"Microarrays, qPCR",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SPRY4,81848,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SEMA4D,10507,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM122A,116224,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DNER,92737,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RTP5,285093,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RTP5,285093,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB4B,10383,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NDOR1,27158,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRELP,5549,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAM111B,374393,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,HMGB1,3146,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,IL1RAP,3556,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TUBB,203068,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CD55,1604,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PLXNB2,23654,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MYO6,4646,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RABL6,55684,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GM2A,2760,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPTC7,160760,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NOP9,161424,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NOP9,161424,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC39A10,57181,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF398,57541,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZSCAN25,221785,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DYNC1H1,1778,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C1D,10438,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KANK2,25959,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BLM,641,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM33,51592,Chimeric fragments,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,VEPH1,79674,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FAR1,84188,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SERPINB2,5055,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DPP4,1803,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF44,51710,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MRPL42,28977,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRIM1,5557,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,AKR1B10,57016,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LPAR1,1902,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TXNRD1,7296,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,YTHDF2,51441,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PAPSS2,9060,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CDC42BPB,9578,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OSTC,58505,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CIPC,85457,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PRC1,9055,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DZIP3,9666,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,KIAA0753,9851,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SAMD13,148418,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZYG11A,440590,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BMPR2,659,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,MICB,4277,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R10,5514,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R10,5514,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R10,5514,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R10,5514,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R10,5514,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R10,5514,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PPP1R10,5514,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GNL1,2794,PAR-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABBR1,2550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABBR1,2550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABBR1,2550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABBR1,2550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABBR1,2550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABBR1,2550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GABBR1,2550,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DCTN1,1639,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SAMD9,54809,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,C16orf96,342346,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,OLIG2,10215,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SERPINB5,5268,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,STK38L,23012,"HITS-CLIP, Microarrays",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ZNF580,51157,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RPS29,6235,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,EMP2,2013,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,REPIN1,29803,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,FOXI3,344167,Chimeric fragments,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,ARHGEF28,64283,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DHRS4-AS1,55449,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DDX3X,1654,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,NPTXR,23467,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,BTBD19,149478,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LTB,4050,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DHFR,1719,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PET117,100303755,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TRIM26,7726,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,JRK,8629,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RNF103,7844,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PI4KA,5297,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PEG10,23089,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PSMB9,5698,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DDOST,1650,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,RBM12,10137,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PCDHGA3,56112,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CHMP1B,57132,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,CHURC1,91612,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,GTF2I,2969,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LY6G5B,58496,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LY6G5B,58496,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LY6G5B,58496,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LY6G5B,58496,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LY6G5B,58496,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LY6G5B,58496,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,LY6G5B,58496,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,DYNLL2,140735,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,TXNIP,10628,"Microarrays, Western Blot",tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PARD6G-AS1,100130522,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,SLC6A14,11254,Microarrays,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PCGF2,7703,HITS-CLIP,tarbase,Unspecified
+hsa-mir-138-5p,MIMAT0000430,PCGF2,7703,HITS-CLIP,tarbase,Unspecified

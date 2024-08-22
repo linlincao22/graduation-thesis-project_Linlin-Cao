@@ -1,0 +1,8 @@
+"atlas ID","PMID","Year","Domain","Trait","P-value","N","EA","NEA"
+"4252","30952852","2019","Psychiatric","Number of sleep episodes","4.1e-10","84810","A","G"
+"4512","31676860","2019","Neurological","Brain stem","2.34e-8","19629","G","A"
+"4528","31676860","2019","Neurological","Left ventral DC","3.572e-11","19629","G","A"
+"4541","31676860","2019","Neurological","Right ventral DC","1.221e-10","19629","G","A"
+"4613","31676860","2019","Neurological","Brain stem","3.577e-8","21821","G","A"
+"4629","31676860","2019","Neurological","Left ventral DC","6.476e-11","21821","G","A"
+"4642","31676860","2019","Neurological","Right ventral DC","1.892e-10","21821","G","A"
