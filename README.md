@@ -1,5 +1,6 @@
 ---
-title: "Combining Bidirectional Mendelian Randomization and Experimental Approaches for the Identification of miRNAs related to Major Depressive Disorder
+title: "Combining Mendelian Randomization and Experimental Approaches for the Identification of miRNAs related to Major Depressive Disorder
+
 "
 author: "linlin Cao"
 date: 2023.11.20 - 2024.8.23
