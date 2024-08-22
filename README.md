@@ -346,7 +346,8 @@ The script for pathway analysis and in-silicon results are shown in pathway anal
 The three_web_all_genes.R will use the miRwalk, miRsystem, and miRnet in-silicon results which shown the target genes for identified 5 miRNAs in each corresponding plateform, 
 the files "edge_pathname_interbig3_file.xlsx" and "type_pathname_interbig3_file.xlsx" are used to generate network using cytoscape for kegg result, and the
 file "combined_pathname_all_pathways_kegg_p0.05_interaction3.xlsx" which is the tableS4a described above.
-And also the file "combined_common_validated_gene_GO_top50_neuro_related_reorder.xlsx" will show the results for GO analysis containing top50 significantly enriched and nurorelated pathways for each miRNAs validated target genes been predicted in three plateforms above, the important neuro related pathways that may related to MDD are selected from "combind_GO_top50pathway_5miRNA_allgenes_3web_genesymbol.xlsx" files, their  miRNAs, target genes, and related pathways are shown in "neuro_related_GO_pathway_fortop50combined.xlsx" file we uploaded.
+
+And also the file "combined_common_validated_gene_GO_top50_neuro_related_reorder.xlsx" (TableS4c) will show the results for GO analysis containing top50 significantly enriched and nurorelated pathways for each miRNAs validated target genes been predicted in three plateforms above, the important neuro related pathways that may related to MDD are selected from "combind_GO_top50pathway_5miRNA_allgenes_3web_genesymbol.xlsx" files, their  miRNAs, target genes, and related pathways are shown in "neuro_related_GO_pathway_fortop50combined.xlsx" file we uploaded.
 
 
 
